@@ -7,7 +7,7 @@ Projeto de estudo sobre a utilização do Elastic APM para monitoramento de apli
 - [x] Iniciar projeto
 - [x] Criar docker-compose com ElasticSearch + Kibana + APM Server
 - [x] Criar app de teste
-- [ ] Criar api de teste
+- [x] Criar api de teste (Flask)
 - [ ] Criar Fluxo automático de comunicação com monitoramento
 - [ ] Adicionar Serviços ao docker-compose
 

@@ -5,7 +5,7 @@ from services import data_lake
 from random import randint, uniform
 
 
-client = elasticapm.Client(service_name="app-test", environment='development')
+client = elasticapm.Client(service_name="app-test", environment='development', service_version='1.0')
 
 
 @elasticapm.capture_span()
